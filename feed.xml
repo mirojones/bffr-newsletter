@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>BFFRLM Newsletter</title>
+    <link>https://www.bffr.org</link>
+    <description>Updates from the Bermagui Flora &amp; Fauna Reserve Land Manager (BFFRLM).</description>
+    <item>
+      <title>First post</title>
+      <link>http://bffr.org/newsletter/</link>
+      <guid>ttp://bffr.org/newsletter/</guid>
+      <pubDate>Wed, 27 Nov 2013 15:17:32 GMT</pubDate>
+      <description>This is the first post.</description>
+    </item>
+  </channel>
+</rss>
